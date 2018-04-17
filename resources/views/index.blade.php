@@ -355,9 +355,23 @@
             </div>
         </div>
     </section>
-    <section class="testimonial-area section-padding gray-bg overlay" id="REFERENCES">
+    <section class="testimonial-area section-padding gray-bg overlay" id="acknowledgement">
         <!-- <div class="container"> -->
           <div class="row">
+            <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+                <!-- <div class="panel-group" id="accordion"> -->
+                    <!-- <span></span> -->
+                    <h2>Acknowledgement</h2><br>
+                    We would like to show our gratitude to our project advisor - Emin Alasgarov for sharing his ideas and recommendations with us during the course of our application building, as he is one of the few people who was with us from the start of our project, commented on an earlier version of it, pointed at our errors and guided us in the right direction towards our goal-to successfully build and deploy our application in such a short amount of time.
+                <!-- </div> -->
+            </div>
+
+          </div>
+     </section>
+
+ <section class="gray-bg section-padding" id="REFERENCES">
+        <div class="container">
+            <div class="row">
               <div class="col-xs-12 col-sm-6 ">
                 <div class="col-xs-12 col-md-8">
                   <div class="side-icon-box">
@@ -366,26 +380,13 @@
                       </div> -->
                       <p style="font-size:25px;"><strong>REFERENCES </strong>
                         <ul>
-                          <li><a href="https://github.com/AzadSadigli/egimus_full.git">Project on Github</a></li>
-                          <li><a href="https://www.dropbox.com/s/erjjwb840u2ewck/sdp-final-report.pdf?dl=0">Project Report</a></li>
+                          <li><a style="color:gray;" href="https://github.com/AzadSadigli/egimus_full.git">Project on Github</a></li>
+                          <li><a style="color:gray;" href="https://www.dropbox.com/s/erjjwb840u2ewck/sdp-final-report.pdf?dl=0">Project Report</a></li>
                         </ul>
                         </p>
                   </div>
                 </div>
               </div>
-          </div>
-     </section>
-
- <section class="gray-bg section-padding" id="acknowledgement">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-                    <!-- <div class="panel-group" id="accordion"> -->
-                        <!-- <span></span> -->
-                        <h2>Acknowledgement</h2><br>
-                        We would like to show our gratitude to our project advisor - Emin Alasgarov for sharing his ideas and recommendations with us during the course of our application building, as he is one of the few people who was with us from the start of our project, commented on an earlier version of it, pointed at our errors and guided us in the right direction towards our goal-to successfully build and deploy our application in such a short amount of time.
-                    <!-- </div> -->
-                </div>
             </div>
         </div>
     </section>

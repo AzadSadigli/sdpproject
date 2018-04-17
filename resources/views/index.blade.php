@@ -159,6 +159,13 @@
 
     <section class="section-padding gray-bg" id="team-page">
         <div class="container">
+             <div class="row">
+                <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
+                    <div class="page-title">
+                        <img src="{{asset('images/logo1.png')}}" style="width: 150px;">
+                    </div>
+                </div>
+            </div>
             <div class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
                     <div class="page-title">
@@ -171,60 +178,60 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/azad.jpg" alt="">
+                            <img src="images/azad1.jpg" alt="">
                         </div>
                         <h4>Azad Sadigli</h4>
                         <h6>Laravel Developer / Founder</h6>
                         <ul class="social-menu">
-                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li><a href="#"><i class="ti-twitter"></i></a></li>
-                            <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                            <li><a href="#"><i class="ti-pinterest"></i></a></li>
+                            <li><a href="https://www.facebook.com/azad.sadiqli"><i class="ti-facebook"></i></a></li>
+                            <!-- <li><a href="#"><i class="ti-twitter"></i></a></li> -->
+                            <li><a href="https://www.linkedin.com/in/azad-sadigli-11223a126/"><i class="ti-linkedin"></i></a></li>
+                            <!-- <li><a href="#"><i class="ti-pinterest"></i></a></li> -->
                         </ul>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/tunjay.jpg" alt="">
+                            <img src="images/tunjay1.jpg" alt="">
                         </div>
                         <h4>Tunjay Habibbayli</h4>
                         <h6>Vue JS developer</h6>
                         <ul class="social-menu">
-                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li><a href="#"><i class="ti-twitter"></i></a></li>
-                            <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                            <li><a href="#"><i class="ti-pinterest"></i></a></li>
+                            <li><a href="https://www.facebook.com/tuncay.habibbeyli"><i class="ti-facebook"></i></a></li>
+                            <!-- <li><a href="#"><i class="ti-twitter"></i></a></li> -->
+                            <li><a href="https://www.linkedin.com/in/tunjay-habibbayli/"><i class="ti-linkedin"></i></a></li>
+                            <!-- <li><a href="#"><i class="ti-pinterest"></i></a></li> -->
                         </ul>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/default.jpg" alt="">
+                            <img src="images/malik1.jpg" alt="">
                         </div>
                         <h4>Malik Novruzov</h4>
                         <h6>Front-End / Android developer</h6>
                         <ul class="social-menu">
-                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li><a href="#"><i class="ti-twitter"></i></a></li>
-                            <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                            <li><a href="#"><i class="ti-pinterest"></i></a></li>
+                            <li><a href="https://www.facebook.com/profile.php?id=100006745050361"><i class="ti-facebook"></i></a></li>
+                            <!-- <li><a href="#"><i class="ti-twitter"></i></a></li> -->
+                            <!-- <li><a href="#"><i class="ti-linkedin"></i></a></li> -->
+                            <!-- <li><a href="#"><i class="ti-pinterest"></i></a></li> -->
                         </ul>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/sahil.jpg" alt="">
+                            <img src="images/sahil1.jpg" alt="">
                         </div>
                         <h4>Sahil Aliyev</h4>
                         <h6>Front-End / Android developer</h6>
                         <ul class="social-menu">
-                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li><a href="#"><i class="ti-twitter"></i></a></li>
-                            <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                            <li><a href="#"><i class="ti-pinterest"></i></a></li>
+                            <li><a href="https://www.facebook.com/profile.php?id=100008982759238"><i class="ti-facebook"></i></a></li>
+                            <!-- <li><a href="#"><i class="ti-twitter"></i></a></li> -->
+                            <li><a href="https://www.linkedin.com/in/sahil-aliyev-219a6013a/"><i class="ti-linkedin"></i></a></li>
+                            <!-- <li><a href="#"><i class="ti-pinterest"></i></a></li> -->
                         </ul>
                     </div>
                 </div>
@@ -352,6 +359,19 @@
     </section>
 
 
+ <section class="gray-bg section-padding" id="faq-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+                    <div class="panel-group" id="accordion">
+                        <span></span>
+                        <h2>Acknowledgement</h2><br>
+                        We would like to show our gratitude to our project advisor - Emin Alasgarov for sharing his ideas and recommendations with us during the course of our application building, as he is one of the few people who was with us from the start of our project, commented on an earlier version of it, pointed at our errors and guided us in the right direction towards our goal-to successfully build and deploy our application in such a short amount of time.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <footer class="footer-area relative sky-bg" id="contact-page">
         <div class="absolute footer-bg"></div>

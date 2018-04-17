@@ -58,6 +58,8 @@
                     <!-- <li class="active"><a href="#home-page">Home</a></li> -->
                     <li class="active"><a href="#team-page">Team</a></li>
                     <li><a href="#faq-page">Goals</a></li>
+                    <li><a href="#acknowledgement">Acknowledgement</a> </li>
+                    <li><a href="#REFERENCES">REFERENCES</a> </li>
                     <li><a href="#contact-page">Contact</a></li>
                 </ul>
             </nav>
@@ -254,10 +256,6 @@
     </section>
 
 
-
-
-
-
     <section class="gray-bg section-padding" id="faq-page">
         <div class="container">
             <div class="row">
@@ -349,7 +347,7 @@
                                 </a>
                             </h4>
                             <div id="collapse7" class="panel-collapse collapse">
-                                <p> Egimsu also will have news functionality which are separated with Latest News, Holdays, and Events. </p>
+                                <p> Egimus also will have news functionality which are separated with Latest News, Holdays, and Events. </p>
                             </div>
                         </div>
                     </div>
@@ -357,17 +355,36 @@
             </div>
         </div>
     </section>
+    <section class="testimonial-area section-padding gray-bg overlay" id="REFERENCES">
+        <!-- <div class="container"> -->
+          <div class="row">
+              <div class="col-xs-12 col-sm-6 ">
+                <div class="col-xs-12 col-md-8">
+                  <div class="side-icon-box">
+                      <!-- <div class="side-icon">
+                          <img src="{{ asset('images/mail-arrow.png')}}" alt="">
+                      </div> -->
+                      <p style="font-size:25px;"><strong>REFERENCES </strong>
+                        <ul>
+                          <li><a href="https://github.com/AzadSadigli/egimus_full.git">Project on Github</a></li>
+                          <li><a href="https://www.dropbox.com/s/erjjwb840u2ewck/sdp-final-report.pdf?dl=0">Project Report</a></li>
+                        </ul>
+                        </p>
+                  </div>
+                </div>
+              </div>
+          </div>
+     </section>
 
-
- <section class="gray-bg section-padding" id="faq-page">
+ <section class="gray-bg section-padding" id="acknowledgement">
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-                    <div class="panel-group" id="accordion">
-                        <span></span>
+                    <!-- <div class="panel-group" id="accordion"> -->
+                        <!-- <span></span> -->
                         <h2>Acknowledgement</h2><br>
                         We would like to show our gratitude to our project advisor - Emin Alasgarov for sharing his ideas and recommendations with us during the course of our application building, as he is one of the few people who was with us from the start of our project, commented on an earlier version of it, pointed at our errors and guided us in the right direction towards our goal-to successfully build and deploy our application in such a short amount of time.
-                    </div>
+                    <!-- </div> -->
                 </div>
             </div>
         </div>
@@ -419,17 +436,7 @@
                             </div>
                         </address>
                     </div>
-                    <!-- <div class="col-xs-12 col-md-8">
-                        <form action="process.php" id="contact-form" method="post" class="contact-form">
-                            <div class="form-double">
-                                <input type="text" id="form-name" name="form-name" placeholder="Your name" class="form-control" required="required">
-                                <input type="email" id="form-email" name="form-email" class="form-control" placeholder="E-mail address" required="required">
-                            </div>
-                            <input type="text" id="form-subject" name="form-subject" class="form-control" placeholder="Message topic">
-                            <textarea name="message" id="form-message" name="form-message" rows="5" class="form-control" placeholder="Your message" required="required"></textarea>
-                            <button type="sibmit" class="button">Submit</button>
-                        </form>
-                    </div> -->
+
                 </div>
             </div>
         </div>
